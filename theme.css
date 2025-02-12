@@ -1,34 +1,29 @@
-body {
-	--radius-s: 0px;
-	--radius-m: 0px;
-	--radius-l: 0px;
-	--input-radius: 0px;
-	--tab-radius-active: 0px;
-	--checkbox-radius: 0px;
-	--toggle-radius: 0px;
-	--toggle-thumb-radius: 0px;
-	--slider-thumb-radius: 0px;
+.theme-light {
+	--color-base-00:	#1e1e1e;
+	--color-base-05:	#212121;
+	--color-base-10:	#242424;
+	--color-base-20:	#262626;
+	--color-base-25:	#2a2a2a;
+	--color-base-30:	#363636;
+	--color-base-35:	#3f3f3f;
+	--color-base-40:	#555555;
+	--color-base-50:	#666666;
+	--color-base-60:	#999999;
+	--color-base-70:	#bababa;
+	--color-base-100:	#dadada;
 }
 
-.workspace-tab-header.is-active::before, .workspace-tab-header.is-active::after {
-	display: none;
-}
-
-svg * {
-	stroke-linecap: square;
-	stroke-linejoin: miter;
-	rx: 0;
-	ry: 0;
-}
-
-.menu {
-	padding: var(--size-2-1);
-}
-
-.menu-item {
-	padding: var(--size-4-1) var(--size-4-2);
-}
-
-.menu-separator {
-	margin: var(--size-2-1) calc(var(--size-2-1) * -1);
+.theme-dark {
+	--color-base-00:	#1e1e1e;
+	--color-base-05:	#212121;
+	--color-base-10:	#242424;
+	--color-base-20:	#262626;
+	--color-base-25:	#2a2a2a;
+	--color-base-30:	#363636;
+	--color-base-35:	#3f3f3f;
+	--color-base-40:	#555555;
+	--color-base-50:	#666666;
+	--color-base-60:	#999999;
+	--color-base-70:	#bababa;
+	--color-base-100:	#dadada;
 }
