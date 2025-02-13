@@ -1,5 +1,7 @@
 ## Nutmeg
 
+#### Index
+
 #### Installation
 
 Coming soon!
