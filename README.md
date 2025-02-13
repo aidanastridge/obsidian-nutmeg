@@ -1,6 +1,6 @@
 ## Nutmeg
 
-#### Index
+### Index
 
 #### Installation
 
@@ -8,7 +8,7 @@ Coming soon!
 
 #### Thesis
 
-#### Referneces
+#### References
 
 #### Colors
 
