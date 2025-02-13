@@ -1,12 +1,26 @@
 ## Nutmeg
 
+### Thesis
+
 ### Index
+
+[Installation]()
+<br>
+[References]()
+<br>
+[Colors]()
+<br>
+[Classes]()
+<br>
+[Developers]()
+<br>
+[License]()
+<br>
+[Disclaimer]()
 
 #### Installation
 
 Coming soon!
-
-#### Thesis
 
 #### References
 
