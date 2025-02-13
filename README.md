@@ -10,6 +10,8 @@ Coming soon!
 
 #### References
 
+[Resources](https://publish.obsidian.md/hub/04+-+Guides%2C+Workflows%2C+%26+Courses/for+Theme+Designers) on how ro create Obsidian themes.
+
 #### Colors
 
 |Light theme|Dark theme|Description|
