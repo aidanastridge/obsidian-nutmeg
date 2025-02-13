@@ -10,15 +10,15 @@ Coming soon!
 
 #### Colors
 
-|Color|Light theme|Dark theme|
+|Description|Light theme|Dark theme|
 |--|--|--|
 |--|--|--|
 
 #### Classes
 
-|Class|Light theme|Dark theme|
-|--|--|--|
-|--|--|--|
+|Class|Description|Light theme|Dark theme|
+|--|--|--|--|
+|--|--|--|--|
 
 #### Developers
 
