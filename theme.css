@@ -1,5 +1,6 @@
 .theme-dark {
-  --base-l: hsl(80, 15%, 34%);
+  --base-l: hsla(80, 9%, 34%,.5);
+  --ribbons:hsl(80, 0%, 9%);
   --background-primary: var(--base-l);
-  --background-secondary: var(--base-l);
+  --background-secondary: var(--ribbons);
 }/*# sourceMappingURL=theme.css.map */
