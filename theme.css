@@ -1,3 +1,8 @@
 body {
-  --font-text-theme: Georgia, serif;
+  --color-egg: hsl(51,100,96.3);
+}
+
+.theme-light {
+  --background-primary: var(--color-egg);
+  --background-primary-alt: var(--color-egg);
 }/*# sourceMappingURL=theme.css.map */
