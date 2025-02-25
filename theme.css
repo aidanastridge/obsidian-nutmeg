@@ -33,7 +33,4 @@ svg * {
 	margin: var(--size-2-1) calc(var(--size-2-1) * -1);
 }
 
-body {
-	--font-text-theme: Georgia, serif;
-  }
   
